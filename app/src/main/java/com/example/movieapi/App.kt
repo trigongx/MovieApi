@@ -7,4 +7,5 @@ import dagger.hilt.components.SingletonComponent
 
 @HiltAndroidApp
 class App:Application() {
+    //Okok
 }
